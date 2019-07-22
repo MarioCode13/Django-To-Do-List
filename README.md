@@ -1,5 +1,5 @@
 # Django To-Do-List
-To do list coded in Python's Django framwork
+To do list coded in Python's Django framework
 
 ### Prerequisites
 Django and Python 3.7
