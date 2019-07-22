@@ -13,3 +13,4 @@ Migrate and start the server using:
 ## Built With
 * Python 3.7
 * Django
+* JQuery
