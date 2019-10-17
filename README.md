@@ -6,8 +6,8 @@ Django and Python 3.7
 
 ## Deployment
 Migrate and start the server using:\
-python manage.py migrate\
-manage.py runserver
+-python manage.py migrate\
+-manage.py runserver
 
 ## Built With
 * Python 3.7
